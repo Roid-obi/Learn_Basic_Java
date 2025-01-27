@@ -5,7 +5,7 @@
 ```bash
 javac nama-file.java
 # or
-javac part?/nama-file.java
+javac nama-folder/nama-file.java
 ```
 
 <h3>Menjalankan program:</h3>
@@ -13,5 +13,5 @@ javac part?/nama-file.java
 ```bash
 java nama-file
 # or
-java part?.nama-file
+java nama-folder.nama-file
 ```
