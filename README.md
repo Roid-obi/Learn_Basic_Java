@@ -1,4 +1,4 @@
-<h1>Studi kasus Algoritma Sequensial</h1>
+<h1>Basic Java Language</h1>
 
 <h3>Mengkompilasi:</h3>
 
