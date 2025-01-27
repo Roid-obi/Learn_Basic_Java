@@ -4,7 +4,7 @@
 
 ```bash
 javac nama-file.java
-# or
+# jika di dalam folder
 javac nama-folder/nama-file.java
 ```
 
@@ -12,6 +12,6 @@ javac nama-folder/nama-file.java
 
 ```bash
 java nama-file
-# or
+# jika di dalam folder
 java nama-folder.nama-file
 ```
